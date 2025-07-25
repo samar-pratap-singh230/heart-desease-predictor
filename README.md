@@ -1,20 +1,20 @@
-# 💓 Heart Disease Risk Prediction Web App
+# Heart Disease Risk Prediction Web App
 
 A machine learning-powered web application that predicts the likelihood of heart disease based on user-entered medical attributes. Built with **Flask**, **Python**, and a **Random Forest Classifier**, this project combines data science, web development, and healthcare education.
 
-## 🔍 Project Overview
+## Project Overview
 
 This web app allows users to input their health data—like age, cholesterol, chest pain type, etc.—and get a prediction about their heart disease risk. It also includes an information page to educate users about the medical relevance and safe ranges of each input field.
 
-## 🚀 Features
+## Features
 
-- 🧠 Trained ML model using a Kaggle heart disease dataset
-- 🧾 User-friendly web form with real-time validation
-- 📊 Educational info page for health awareness
-- 🎯 Clean, responsive, and interactive UI
-- 💾 Model training using `scikit-learn` and `GridSearchCV`
+- Trained ML model using a Kaggle heart disease dataset
+- User-friendly web form with real-time validation
+- Educational info page for health awareness
+- Clean, responsive, and interactive UI
+- Model training using `scikit-learn` and `GridSearchCV`
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - Flask
@@ -23,7 +23,7 @@ This web app allows users to input their health data—like age, cholesterol, ch
 - HTML/CSS
 - Bootstrap (for styling)
 
-## 📁 Folder Structure
+## Folder Structure
 
 Heart-Disease-Predictor/
 │
@@ -42,7 +42,7 @@ Heart-Disease-Predictor/
 ├── app.py # Flask backend
 └── README.md # Project documentation
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 git clone https://github.com/yourusername/heart-disease-predictor.git
@@ -59,7 +59,7 @@ python app.py
 6. Open your browser and visit:
 http://127.0.0.1:5000/
 
-## 🧪 Sample Inputs
+## Sample Inputs
 
 | Field             | Example Value |
 |------------------|---------------|
@@ -75,12 +75,12 @@ http://127.0.0.1:5000/
 | Oldpeak          | 1.2           |
 | ST_Slope         | Up            |
 
-## 📚 Dataset
+## Dataset
 
 - Source: [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 - Contains medical records and diagnosis labels (HeartDisease: 0 or 1)
 
-## 📖 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
