@@ -45,8 +45,8 @@ Heart-Disease-Predictor/
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/samar-pratap-singh230/heart-disease-predictor.git
-cd heart-disease-predictor
+git clone https://github.com/samar-pratap-singh230/heart-disease-risk-predictor.git
+cd heart-disease-risk-predictor
 2. Create and activate a virtual environment:
 python -m venv venv
 venv\Scripts\activate # On Windows
